@@ -3113,7 +3113,7 @@
     </CloudLayers>
 
     <MaximumOxygen>0.0</MaximumOxygen>
-    <SurfaceGravity>0.6</SurfaceGravity>
+    <SurfaceGravity>0.8</SurfaceGravity>
     <MaterialsMaxDepth Min="4000" Max="4000" />
     <MaterialsMinDepth Min="20" Max="20" />
 
