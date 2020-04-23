@@ -5,10 +5,12 @@ I wanted to make a Star System type world where starting anywhere is possible bu
 
 With these mods the EarthLike has really poor access to anything but the basic construction ores, plus cobalt and magnesium. You want to get to orbit for good sources of silver in asteroids. Then to the Moon for gold, to MarsLike for Platinum, and either Triton or Alien planets for Uranium.
 
-Roughly the same logic applies to other planets but they have other challenges as well. Mars is a harsh start with the lack of oxygen. You need to pretty quickly find ice inside suface boulders and probably need to get to Europa for cobalt. Alien planet has an unbreathable oxygen atmosphere with a fairly strong gravity field, but similarly has few sources of cobalt unlike it's moon Titan. Triton has plentiful uranium and a breathable atmosphere but a very high gravity.
+Roughly the same logic applies to other planets but they have other challenges as well. Mars is a harsh start with the lack of oxygen. You need to pretty quickly find ice inside suface boulders and you won't find cobalt easily until you have Jump Drives. Alien planet has an unbreathable oxygen atmosphere with a fairly strong gravity field, but similarly has few sources of cobalt, which it's moon Titan does has near the surface. Triton has plentiful uranium and a breathable atmosphere but a very high gravity.
 
 ## Procedurally Generated Ore
-I've used this tool to generate ore maps for all official planets including Triton. However, I still haven't found out how to modify surface boulders on Triton. The numbers between planets and moons are not directly relative to each other due to surface area differences.
+I've used this tool to generate ore maps for all official planets including Triton. However, I still haven't found out how to modify surface boulders on Triton.
+
+In many cases the ores with low numbers are up to 300m deep in the ground and plentiful rare ones are usually closer to surface than they normally would. The numbers below are not directly comparable between planets and moons due to surface area differences.
 
 Planet | EarthLike | Moon | Triton | Mars | Europa | Alien | Titan
 ------ | --------- | ---- | ------ | ---- | ------ | ----- | -----
