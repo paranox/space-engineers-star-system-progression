@@ -1,5 +1,5 @@
 # space-engineers-star-system-progression
-I wanted to make a Star System type world where starting anywhere is possible but you still need to go through objective steps in order to advance efficiently.
+I wanted to make a bit harder survival Star System type world where starting anywhere is possible but you still need to go through objective steps in order to advance efficiently.
 
 ## The idea of it
 
@@ -10,10 +10,14 @@ Roughly the same logic applies to other planets but they have other challenges a
 ## Procedurally Generated Ore
 I've used this tool to generate ore maps for all official planets including Triton. However, I still haven't found out how to modify surface boulders on Triton.
 
-In many cases the ores with low numbers are up to 300m deep in the ground and plentiful rare ones are usually closer to surface than they normally would. The numbers below are not directly comparable between planets and moons due to surface area differences.
+Generally the ores are in larger veins than Space Engineers normally provides, and the common ones even moreso. If an ore is rare on some planet, it really is rare, and in much smaller patches than they otherwise would be.
 
-Planet | EarthLike | Moon | Triton | Mars | Europa | Alien | Titan
------- | --------- | ---- | ------ | ---- | ------ | ----- | -----
+In many cases the ores with low numbers are up to 300m deep in the ground and plentiful rare ones are usually closer to surface than they normally would. Almost all of the rare deep ores have no surface hints, and these days even shallow ones are hard to see by default.
+
+The numbers below are not directly comparable between planets and moons due to surface area differences.
+
+Ores in Map | EarthLike | Moon | Triton | Mars | Europa | Alien | Titan
+----------- | --------- | ---- | ------ | ---- | ------ | ----- | -----
 Iron | 182503 | 3196 | 75058 | 67473 | 3311 | 222045 | 2215
 Nickel | 64847 | 5008 | 36141 | 57137 | 1625 | 80519 | 3534
 Silicon | 44016 | 17808 | 29217 | 24771 | 3443 | 5459 | 4369
