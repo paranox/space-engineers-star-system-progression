@@ -5,9 +5,19 @@ I wanted to make a Star System type scenario where starting anywhere is possible
 
 ## The idea of it
 
-With these mods the EarthLike has really poor access to anything but the basic construction ores, plus cobalt and magnesium. You want to get to orbit for good sources of silver in asteroids. Then to the Moon for gold, to MarsLike for Platinum, and either Triton or Alien planets for Uranium.
+Basically you need to get off-planet for silver, to the nearby moon for gold, and to other planets for whatever you don't reliably get where you started. Moons with an atmopshere have weak winds.
 
-Roughly the same logic applies to other planets but they have other challenges as well. Mars is a harsh start with the lack of oxygen. You need to pretty quickly find ice inside suface boulders and you won't find cobalt easily until you have Jump Drives. Alien planet has an unbreathable oxygen atmosphere with a fairly strong gravity field, but similarly has few sources of cobalt, which it's moon Titan does has near the surface. Triton has plentiful uranium and a breathable atmosphere but a very high gravity.
+### EarthLike Planet
+Breathable atmosphere, rich in basic construction ores plus plenty of cobalt and magnesium. You want to get to orbit for good sources of silver in asteroids. Then to the Moon for gold, to MarsLike for Platinum, and either Triton or Alien planets for Uraninite.
+
+### MarsLike Planet
+A really harsh start with weak winds the lack of oxygen - you need to quickly find ice inside surface boulders or on the ground. While Platinum is plentiful and found closer to surface, Cobalt is scarce and deeper. Same as on Earth starts you need to get to the moon Titan for reliable source of gold. Titan also has plentiful Magnesium.
+
+### Alien Planet
+Has an unbreathable oxygen atmosphere with a fairly strong gravity field and strong winds. Rich in Silver, Uraninite and basic construction ores, but less plentiful cobalt compared to EarthLike. It's moon Titan has some cobalt very near the surface.
+
+### Triton Planet
+Breathable atmosphere but a very high gravity and not too strong winds. Relatively rich in basic construction ores plus Uraninite but also has notable amounts of Gold as well since it has no moon. Getting off this planet is a challenge but once you do you'll be rather well equipped.
 
 ## Procedurally Generated Ore
 I've used this tool to generate ore maps for all official planets including Triton. However, I still haven't found out how to modify surface boulders on Triton.
