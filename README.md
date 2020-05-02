@@ -16,15 +16,15 @@ In many cases the ores with low numbers are up to 300m deep in the ground and pl
 
 Planet | EarthLike | Moon | Triton | Mars | Europa | Alien | Titan
 ------ | --------- | ---- | ------ | ---- | ------ | ----- | -----
-Iron | 182503 | 3196 | 75058 | 67473 | 3311 | 222045 | 2215
-Nickel | 64847 | 5008 | 36141 | 57137 | 1625 | 80519 | 3534
-Silicon | 44016 | 17808 | 29217 | 24771 | 3443 | 5459 | 4369
-Cobalt | 174137 | 188 | 50085 | 278 | 1545 | 989 | 34519
-Magnesium | 33917 | 5994 | 36286 | 23240 | 17081 | 64395 | 675
-Silver | 121 | 5864 | 219 | 221 | 126 | 90308 | 17
-Gold | 181 | 5152 | 4952 | 168 | 4211 | 262 | 4616
-Uraninite | 154 | 91 | 7619 | 376 | 71 | 35459 | 35
-Platinum | 160 | 490 | 473 | 45359 | 299 | 578 | 52
+Iron | 182503 | 3196 | 75058 | 57223 | 3311 | 170973 | 5867
+Nickel | 64847 | 5008 | 36141 | 53898 | 1625 | 68437 | 6347
+Silicon | 44016 | 17808 | 29217 | 23748 | 3443 | 9276 | 5918
+Cobalt | 174137 | 188 | 50085 | 23409 | 1545 | 53512 | 13621
+Magnesium | 33917 | 5994 | 36286 | 23240 | 17081 | 67098 | 2255
+Silver | 121 | 5864 | 219 | 221 | 126 | 92999 | 40
+Gold | 181 | 5152 | 4952 | 168 | 4211 | 603 | 8113
+Uraninite | 154 | 91 | 7619 | 376 | 71 | 36517 | 144
+Platinum | 160 | 490 | 473 | 45359 | 299 | 597 | 63
 
 ## The Scenario
 This mod is used in [this scenario (git respository)](https://github.com/paranox/space-engineers-survival-progressively-less-likely) and it defines the star system itself.

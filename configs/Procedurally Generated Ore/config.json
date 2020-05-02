@@ -281,7 +281,7 @@
 			"ores": [
 				{
 					"id": 1,
-					"p": 60,
+					"p": 50,
 					"density": 10,
 					"surfaceArea": 30
 				},
@@ -295,9 +295,9 @@
 				},
 				{
 					"id": 72,
-					"p": 2,
-					"density": 5,
-					"surfaceArea": 5,
+					"p": 12,
+					"density": 3,
+					"surfaceArea": 50,
 					"surfaceHintProbability": 0,
 					"startDepth": 100
 				},
@@ -407,25 +407,24 @@
 			"ores": [
 				{
 					"id": 1,
-					"p": 40
+					"p": 30
 				},
 				{
 					"id": 24,
-					"p": 24
+					"p": 20
 				},
 				{
 					"id": 48,
-					"p": 4,
+					"p": 6,
 					"density": 3,
 					"surfaceArea": 25
 				},
 				{
 					"id": 72,
-					"p": 4,
-					"density": 5,
-					"surfaceArea": 5,
-					"surfaceHintProbability": 0,
-					"startDepth": 150
+					"p": 16,
+					"density": 3,
+					"surfaceArea": 60,
+					"startDepth": 50
 				},
 				{
 					"id": 96,
@@ -444,7 +443,7 @@
 				},
 				{
 					"id": 168,
-					"p": 1,
+					"p": 2,
 					"density": 5,
 					"surfaceArea": 5,
 					"surfaceHintProbability": 0,
@@ -468,13 +467,13 @@
 			"ores": [
 				{
 					"id": 1,
-					"p": 5,
+					"p": 10,
 					"density": 5,
 					"surfaceArea": 60
 				},
 				{
 					"id": 24,
-					"p": 15,
+					"p": 20,
 					"density": 5,
 					"surfaceArea": 40
 				},
@@ -485,7 +484,7 @@
 				},
 				{
 					"id": 72,
-					"p": 32,
+					"p": 10,
 					"density": 1,
 					"surfaceArea": 160,
 					"startDepth": 10
@@ -500,7 +499,7 @@
 				},
 				{
 					"id": 120,
-					"p": 2,
+					"p": 4,
 					"startDepth": 100
 				},
 				{
@@ -513,7 +512,7 @@
 				},
 				{
 					"id": 168,
-					"p": 30,
+					"p": 40,
 					"startDepth": 60
 				},
 				{
