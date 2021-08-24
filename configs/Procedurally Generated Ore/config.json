@@ -191,7 +191,7 @@
 				{
 					"id": 96,
 					"p": 20,
-					"planetFaces": ["BACK"],
+					"planetFaces": ["FRONT", "BACK", "LEFT", "RIGHT"],
 					"startDepth": 100
 				},
 				{
@@ -209,7 +209,7 @@
 				{
 					"id": 168,
 					"p": 20,
-					"planetFaces": ["FRONT"],
+					"planetFaces": ["FRONT", "BACK", "LEFT", "RIGHT"],
 					"startDepth": 100
 				},
 				{
@@ -334,7 +334,7 @@
 					"p": 50,
 					"surfaceArea": 25,
 					//"surfaceHintProbability": 0.75,
-					"startDepth": 60			
+					"startDepth": 60
 				}
 			]
 		},
