@@ -6,7 +6,7 @@
         <TypeId>PlanetGeneratorDefinition</TypeId>
         <SubtypeId>Triton</SubtypeId>
       </Id>
-
+	<Difficulty>DifficultyEasy</Difficulty>
 
     <!--!!!Important!! Read if you want to mod Planets! -->
     <!--Following tag switches off loading from certain color channels. Its performance measure in cases where channels are not used-->
@@ -51,7 +51,17 @@
       <Distortion Type="Perlin" Value="92" Frequency="10" Height="4" LayerCount="6" />
     </DistortionTable>
 
-    <OreMappings><Ore Value="1" Type="Iron_02" Start="12" Depth="10" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="24" Type="Nickel_01" Start="16" Depth="8" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="48" Type="Silicon_01" Start="20" Depth="8" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="72" Type="Cobalt_01" Start="25" Depth="4" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="96" Type="Silver_01" Start="200" Depth="5" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="120" Type="Magnesium_01" Start="32" Depth="6" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="144" Type="Uraninite_01" Start="35" Depth="4" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="168" Type="Gold_01" Start="55" Depth="3" TargetColor="#616c83" ColorInfluence="15" /><Ore Value="192" Type="Platinum_01" Start="300" Depth="3" TargetColor="#616c83" ColorInfluence="15" /></OreMappings>
+    <OreMappings>
+      <Ore Value="1" Type="Iron_02" Start="12" Depth="10" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="24" Type="Nickel_01" Start="16" Depth="8" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="48" Type="Silicon_01" Start="20" Depth="8" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="72" Type="Cobalt_01" Start="25" Depth="4" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="96" Type="Silver_01" Start="200" Depth="5" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="120" Type="Magnesium_01" Start="32" Depth="6" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="144" Type="Uraninite_01" Start="35" Depth="4" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="168" Type="Gold_01" Start="55" Depth="3" TargetColor="#616c83" ColorInfluence="15"/>
+      <Ore Value="192" Type="Platinum_01" Start="300" Depth="3" TargetColor="#616c83" ColorInfluence="15"/>
+    </OreMappings>
 
     <SoundRules>
       <SoundRule>
@@ -207,7 +217,7 @@
 
     <MinimumSurfaceLayerDepth>5</MinimumSurfaceLayerDepth>
     <!-- Triton Planet's Weather Settings -->
-  
+	
     <WeatherFrequencyMin>1200</WeatherFrequencyMin>
       <WeatherFrequencyMax>3600</WeatherFrequencyMax>
       <WeatherGenerators>
