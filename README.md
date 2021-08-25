@@ -41,11 +41,11 @@ This mod is used in [this scenario (git respository)](https://github.com/paranox
 
 ## Deployment
 Until I can be arsed to automate this with a script, here's a list of things used in mod:
-* metadata.mod (from /configs/Workshop/metadata.mod)
-* readme.txt (from /configs/Workshop/readme.txt)
-* thumb.jpg (from /configs/Workshop/thumb.jpg)
-* Data/PlanetGeneratorDefinitions.sbc (from /Planets/PlanetGeneratorDefinitions.sbc)
-* Data/Triton.sbc (from /Planets/Triton.sbc)
-* Data/VoxelMaterialChanges.sbc (from /Surface Boulders/VoxelMaterialChanges.sbc)
-* Data/VoxelMaterials_asteroids.sbc (from /Scarcer Asteroid Ores/VoxelMaterials_asteroids.sbc)
-* Data/PlanetDataFiles/*.png (from /Ore Maps/PlanetDataFiles/*.png)
+* `metadata.mod` (from `/configs/Workshop/metadata.mod`)
+* `readme.txt` (from `/configs/Workshop/readme.txt`)
+* `thumb.jpg` (from `/configs/Workshop/thumb.jpg`)
+* `Data/PlanetGeneratorDefinitions.sbc` (from `/Planets/PlanetGeneratorDefinitions.sbc`)
+* `Data/Triton.sbc` (from `/Planets/Triton.sbc`)
+* `Data/VoxelMaterialChanges.sbc` (from `/Surface Boulders/VoxelMaterialChanges.sbc`)
+* `Data/VoxelMaterials_asteroids.sbc` (from `/Scarcer Asteroid Ores/VoxelMaterials_asteroids.sbc`)
+* `Data/PlanetDataFiles/*.png` (from `/Ore Maps/PlanetDataFiles/*.png`)

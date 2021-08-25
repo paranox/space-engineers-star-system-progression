@@ -1,8 +1,8 @@
 {
-	"planetDataPath": "E:\\Work\\Modding\\SpaceEngineers\\Mods\\Procedurally Generated Ore\\SourceData\\PlanetDataFiles",
-	"planetGeneratorDefinitionsPath": "E:\\Work\\Modding\\SpaceEngineers\\Mods\\Procedurally Generated Ore\\SourceData\\PlanetGeneratorDefinitions.sbc",
-	"planetDataOutputPath": "E:\\Work\\Modding\\SpaceEngineers\\Mods\\Procedurally Generated Ore\\Output\\Data\\PlanetDataFiles\\",
-	"planetGeneratorDefinitionsOutputPath": "E:\\Work\\Modding\\SpaceEngineers\\Mods\\Procedurally Generated Ore\\Output\\Data\\",
+	"planetDataPath": "SourceData\\PlanetDataFiles",
+	"planetGeneratorDefinitionsPath": "SourceData\\PlanetGeneratorDefinitions.sbc",
+	"planetDataOutputPath": "Output\\Data\\PlanetDataFiles\\",
+	"planetGeneratorDefinitionsOutputPath": "Output\\Data\\",
 	"makeColouredMaps": true,
 	"surfaceHintMaps": true,
 	"shape": 1,
