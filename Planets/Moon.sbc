@@ -7,7 +7,6 @@
     </Id>
 
     <Difficulty>DifficultyHard</Difficulty>
-
     <!--!!!Important!! Read if you want to mod Planets! -->
     <!--Following tag switches off loading from certain color channels. Its performance measure in cases where channels are not used-->
     <!--Make sure you are not modding a switched off channel-->
@@ -280,7 +279,7 @@
     <HasAtmosphere>false</HasAtmosphere>
 
     <SurfaceGravity>0.25</SurfaceGravity>
-    
+
     <Deviation Min ="0.005" Max ="0.003"/>
     <MaterialsMaxDepth Min="4000" Max="4000"/>
     <MaterialsMinDepth Min="20" Max="20"/>

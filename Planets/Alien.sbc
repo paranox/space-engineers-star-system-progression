@@ -6,7 +6,7 @@
       <SubtypeId>Alien</SubtypeId>
     </Id>
 
-	  <Difficulty>DifficultyNormal</Difficulty>
+    <Difficulty>DifficultyNormal</Difficulty>
     <!--!!!Important!! Read if you want to mod Planets! -->
     <!--Following tag switches off loading from certain color channels. Its performance measure in cases where channels are not used-->
     <!--Make sure you are not modding a switched off channel-->
@@ -62,7 +62,7 @@
       <Ore Value="1" Type="Iron_02" Start="12" Depth="10" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="24" Type="Nickel_01" Start="16" Depth="8" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="48" Type="Silicon_01" Start="20" Depth="8" TargetColor="#616c83" ColorInfluence="15" />
-      <Ore Value="72" Type="Cobalt_01" Start="150" Depth="4" TargetColor="#616c83" ColorInfluence="15" />
+      <Ore Value="72" Type="Cobalt_01" Start="50" Depth="4" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="96" Type="Silver_01" Start="25" Depth="5" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="120" Type="Magnesium_01" Start="32" Depth="6" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="144" Type="Uraninite_01" Start="70" Depth="4" TargetColor="#616c83" ColorInfluence="15" />

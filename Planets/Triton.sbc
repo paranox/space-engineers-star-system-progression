@@ -7,11 +7,10 @@
     </Id>
 
     <Difficulty>DifficultyNormal</Difficulty>
-
     <!--!!!Important!! Read if you want to mod Planets! -->
     <!--Following tag switches off loading from certain color channels. Its performance measure in cases where channels are not used-->
     <!--Make sure you are not modding a switched off channel-->
-    <PlanetMaps Material="false" Ores="true" Biome="false" Occlusion="false"/>
+    <PlanetMaps Material="true" Ores="true" Biome="false" Occlusion="true" />
 
     <MesherPostprocessing xsi:type="MyObjectBuilder_VoxelMesherComponentDefinition">
       <PostprocessingSteps>
@@ -170,7 +169,7 @@
       <OxygenDensity>0.9</OxygenDensity>
       <Density>1.4</Density>
       <LimitAltitude>0.47</LimitAltitude>
-      <MaxWindSpeed>70</MaxWindSpeed>
+      <MaxWindSpeed>150</MaxWindSpeed>
     </Atmosphere>
 
     <AtmosphereSettings>

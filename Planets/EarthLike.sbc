@@ -6,7 +6,7 @@
       <SubtypeId>EarthLike</SubtypeId>
     </Id>
 
-	  <Difficulty>DifficultyEasy</Difficulty>
+    <Difficulty>DifficultyEasy</Difficulty>
 
     <MesherPostprocessing xsi:type="MyObjectBuilder_VoxelMesherComponentDefinition">
       <PostprocessingSteps>

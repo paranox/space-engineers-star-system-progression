@@ -52,7 +52,7 @@
       <Ore Value="72" Type="Cobalt_01" Start="10" Depth="4" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="96" Type="Silver_01" Start="150" Depth="5" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="120" Type="Magnesium_01" Start="100" Depth="6" TargetColor="#616c83" ColorInfluence="15" />
-      <Ore Value="144" Type="Uraninite_01" Start="200" Depth="4" TargetColor="#616c83" ColorInfluence="15" />
+      <Ore Value="144" Type="Uraninite_01" Start="50" Depth="4" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="168" Type="Gold_01" Start="60" Depth="3" TargetColor="#616c83" ColorInfluence="15" />
       <Ore Value="192" Type="Platinum_01" Start="300" Depth="3" TargetColor="#616c83" ColorInfluence="15" />
     </OreMappings>
@@ -311,9 +311,9 @@
     <MaximumOxygen>0.0</MaximumOxygen>
 
     <Atmosphere>
-      <Density>0.1</Density>
+      <Density>0.2</Density>
       <OxygenDensity>0</OxygenDensity>
-      <MaxWindSpeed>30</MaxWindSpeed>
+      <MaxWindSpeed>20</MaxWindSpeed>
     </Atmosphere>
 
     <!-- Titan Planet's Atmosphere settings-->
@@ -469,6 +469,7 @@
     </CloudLayers>
 
     <SurfaceGravity>0.4</SurfaceGravity>
+
     <MaterialsMaxDepth Min="4000" Max="4000"/>
     <MaterialsMinDepth Min="20" Max="20"/>
 

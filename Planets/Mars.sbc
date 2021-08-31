@@ -6,7 +6,7 @@
       <SubtypeId>Mars</SubtypeId>
     </Id>
 
-	  <Difficulty>DifficultyHard</Difficulty>
+    <Difficulty>DifficultyHard</Difficulty>
     <!--!!!Important!! Read if you want to mod Planets! -->
     <!--Following tag switches off loading from certain color channels. Its performance measure in cases where channels are not used-->
     <!--Make sure you are not modding a switched off channel-->
@@ -193,7 +193,7 @@
       <OxygenDensity>0</OxygenDensity>
       <Density>0.3</Density>
       <LimitAltitude>2.0</LimitAltitude>
-      <MaxWindSpeed>60</MaxWindSpeed>
+      <MaxWindSpeed>40</MaxWindSpeed>
     </Atmosphere>
 
     <AtmosphereSettings>

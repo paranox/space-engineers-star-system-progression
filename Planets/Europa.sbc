@@ -216,7 +216,7 @@
     <Atmosphere>
       <Density>0.1</Density>
       <OxygenDensity>0</OxygenDensity>
-      <MaxWindSpeed>30</MaxWindSpeed>
+      <MaxWindSpeed>20</MaxWindSpeed>
     </Atmosphere>
 
     <AtmosphereSettings>

@@ -1,0 +1,165 @@
+{
+	"planetDataPath": "SourceData\\PlanetDataFiles",
+	"planetGeneratorDefinitionsPath": "SourceData\\PlanetGeneratorDefinitions.sbc",
+	"planetDataOutputPath": "Output\\PlanetDataFiles\\",
+	"planetGeneratorDefinitionsOutputPath": "Output\\",
+	"makeColouredMaps": true,
+	"surfaceHintMaps": true,
+	"shape": 1,
+	"maxOreTiles": 240000, //Normal, Rich = 500000, Poor = 100000
+	"maxOrePatches": 6000, //Normal, Rich = 12500, Poor = 2000
+	"patchSizeVariance": 0.4,
+	"oreTemplates": [
+		{
+			"id": 1,
+			"type": "Iron_02",
+			"surfaceArea": 100,
+			"density": 3.0,
+			"startDepth": 12,
+			"depth": 10,
+			//"surfaceHintProbability": 0.9,
+			"testColourHex": "E00000"
+		},
+		{
+			"id": 24,
+			"type": "Nickel_01",
+			"surfaceArea": 60,
+			"density": 3.0,
+			"startDepth": 16,
+			"depth": 8,
+			//"surfaceHintProbability": 0.85,
+			"testColourHex": "FF9741"
+		},
+		{
+			"id": 48,
+			"type": "Silicon_01",
+			"surfaceArea": 60,
+			"density": 2.0,
+			"startDepth": 20,
+			"depth": 8,
+			//"surfaceHintProbability": 0.85,
+			"testColourHex": "FFFFFF"
+		},
+		{
+			"id": 72,
+			"type": "Cobalt_01",
+			"surfaceArea": 120,
+			"density": 1.0,
+			"startDepth": 25,
+			"depth": 4,
+			//"surfaceHintProbability": 0.8,
+			"testColourHex": "0033FF"
+		},
+		{
+			"id": 96,
+			"type": "Silver_01",
+			"surfaceArea": 30,
+			"density": 1.0,
+			"startDepth": 40,
+			"depth": 5,
+			//"surfaceHintProbability": 0.75,
+			"testColourHex": "A0A0A0"
+		},
+		{
+			"id": 120,
+			"type": "Magnesium_01",
+			"surfaceArea": 60,
+			"density": 1.0,
+			"startDepth": 32,
+			"depth": 6,
+			//"surfaceHintProbability": 0.85,
+			"testColourHex": "958CFF"
+		},
+		{
+			"id": 144,
+			"type": "Uraninite_01",
+			"surfaceArea": 20,
+			"density": 2.0,
+			"startDepth": 70,
+			"depth": 4,
+			//"surfacehiNtprobability": 1.0,
+			"testColourHex": "00FF00"
+		},
+		{
+			"id": 168,
+			"type": "Gold_01",
+			"surfaceArea": 25,
+			"density": 1.5,
+			"startDepth": 55,
+			"depth": 3,
+			//"surfaceHintProbability": 0.75,
+			"testColourHex": "FFD800"
+		},
+		{
+			"id": 192,
+			"type": "Platinum_01",
+			"surfaceArea": 15,
+			"density": 0.6,
+			"startDepth": 120,
+			"depth": 3,
+			//"surfaceHintProbability": 0.5,
+			"testColourHex": "5D188E"
+		}
+	],
+	"planets": [
+		{
+			"name": "Planet Agaris", // Same as EarthLike
+			"seed": 1,
+			"surfaceHintColour": 144,
+			"maxOreTiles": 500000,
+			"maxOrePatches": 12500,
+			"ores": [
+				{
+					"id": 1,
+					"p": 50
+				},
+				{
+					"id": 24,
+					"p": 30
+				},
+				{
+					"id": 48,
+					"p": 20
+				},
+				{
+					"id": 72,
+					"p": 40
+				},
+				{
+					"id": 96,
+					"p": 1,
+					"density": 5,
+					"surfaceArea": 5,
+					"surfaceHintProbability": 0,
+					"startDepth": 200
+				},
+				{
+					"id": 120,
+					"p": 16
+				},
+				{
+					"id": 144,
+					"p": 1,
+					"density": 5,
+					"surfaceArea": 5
+				},
+				{
+					"id": 168,
+					"p": 1,
+					"density": 5,
+					"surfaceArea": 5,
+					"surfaceHintProbability": 0,
+					"startDepth": 250
+				},
+				{
+					"id": 192,
+					"p": 1,
+					"density": 5,
+					"surfaceArea": 5,
+					"surfaceHintProbability": 0,
+					"startDepth": 300
+				}
+			]
+		}
+	]
+}
