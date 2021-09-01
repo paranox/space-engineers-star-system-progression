@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_WorldGpsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PersistentGpss>
+    <PersistentGpsData>
+      <Name>Poseidon</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="-4000000" y="1000000" z="2500000" />
+      <Id>d848e538-9961-48d7-9040-4837e24c165a</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Planet Agaris</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="47656.03461041025" y="49080.356549109987" z="47208.234439402746" />
+      <Id>721608de-179e-4ea4-9ef2-4e5f5ee5a12e</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Luna</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="17468" y="137762" z="-118075" />
+      <Id>9cc4a4ad-c68e-4bf4-9dcc-00b4262dab71</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Mars</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="1449101" y="1320552" z="1321611" />
+      <Id>3fdcf9f0-8bda-4450-8830-4fe75c35dd64</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Europa</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="1314929" y="1375631" z="1253614" />
+      <Id>df8bbc99-8243-4691-9cf8-8c1f21dda2b5</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Alien</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="-1840002" y="2032562" z="4192217" />
+      <Id>ffc489c2-da7f-43e6-bdd2-ceb8cffd9fc9</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Titan</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="-1841789" y="2065080" z="3953681" />
+      <Id>334a6702-14b2-4495-b7f9-aa57d97ebbe4</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Pertam</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="-3967433" y="-28540" z="-764542" />
+      <Id>43258191-67d7-423f-bf19-91f7f37152e5</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+    <PersistentGpsData>
+      <Name>Triton</Name>
+      <Color x="1" y="1" z="1" />
+      <Position x="-850014.5" y="2923151.5" z="-4121533.5" />
+      <Id>7aed6bbc-8a2a-4704-aa9e-0397298a7084</Id>
+      <Hidden>true</Hidden>
+      <PlayerIds>
+        <long>144115188075855897</long>
+      </PlayerIds>
+    </PersistentGpsData>
+  </PersistentGpss>
+</MyObjectBuilder_WorldGpsData>

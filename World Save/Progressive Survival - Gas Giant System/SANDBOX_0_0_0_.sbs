@@ -1,0 +1,911 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_Sector xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Position>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </Position>
+  <SectorEvents>
+    <Events>
+      <MyObjectBuilder_GlobalEventBase>
+        <SubtypeName>SpawnCargoShip</SubtypeName>
+        <Enabled>true</Enabled>
+        <ActivationTimeMs>1653255</ActivationTimeMs>
+      </MyObjectBuilder_GlobalEventBase>
+    </Events>
+  </SectorEvents>
+  <AppVersion>1199025</AppVersion>
+  <Environment>
+    <SunAzimuth>3.14159274</SunAzimuth>
+    <SunElevation>0</SunElevation>
+    <SunIntensity>0</SunIntensity>
+    <FogMultiplier>0</FogMultiplier>
+    <FogDensity>0.003</FogDensity>
+    <FogColor x="0" y="0" z="0" />
+    <EnvironmentDefinition Type="MyObjectBuilder_EnvironmentDefinition" Subtype="Default" />
+  </Environment>
+  <VoxelHandVolumeChanged>0</VoxelHandVolumeChanged>
+  <SectorObjects>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>6819388290684945784</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Poseidon-GasGiant-6819388290684945784</Name>
+      <PositionAndOrientation>
+        <Position x="-6097152" y="-1097152" z="402848" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Poseidon-GasGiant</StorageName>
+      <Radius>1200000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>2100000</AtmosphereRadius>
+      <MinimumSurfaceRadius>1164000</MinimumSurfaceRadius>
+      <MaximumHillRadius>1236000</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>3.566</Y>
+          <Z>19.467</Z>
+        </RayleighScattering>
+        <MieScattering>0</MieScattering>
+        <MieColorScattering>
+          <X>150</X>
+          <Y>150</Y>
+          <Z>150</Z>
+        </MieColorScattering>
+        <RayleighHeight>8</RayleighHeight>
+        <RayleighHeightSpace>8</RayleighHeightSpace>
+        <RayleighTransitionModifier>1.2</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.99</MieG>
+        <Intensity>10</Intensity>
+        <FogIntensity>0.5</FogIntensity>
+        <SeaLevelModifier>0.9</SeaLevelModifier>
+        <AtmosphereTopModifier>1.1</AtmosphereTopModifier>
+        <Scale>1</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>2.8</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>GasGiant</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>3580297522870005110</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Triton-Triton-3580297522870005110</Name>
+      <PositionAndOrientation>
+        <Position x="-981087" y="2792079" z="-4252606" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Triton-Triton</StorageName>
+      <Radius>100000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>175000</AtmosphereRadius>
+      <MinimumSurfaceRadius>95000</MinimumSurfaceRadius>
+      <MaximumHillRadius>120000</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>150</X>
+          <Y>150</Y>
+          <Z>150</Z>
+        </MieColorScattering>
+        <RayleighHeight>1.5</RayleighHeight>
+        <RayleighHeightSpace>10.75</RayleighHeightSpace>
+        <RayleighTransitionModifier>0.3</RayleighTransitionModifier>
+        <MieHeight>200</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>200</Intensity>
+        <FogIntensity>0.5</FogIntensity>
+        <SeaLevelModifier>0.8</SeaLevelModifier>
+        <AtmosphereTopModifier>1.03</AtmosphereTopModifier>
+        <Scale>1</Scale>
+        <SunColor>
+          <X>0.99999994</X>
+          <Y>0.99999994</Y>
+          <Z>0.99999994</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>0.99999994</X>
+          <Y>0.99999994</Y>
+          <Z>0.99999994</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1.9</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Triton</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>155663662403025709</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Titan-Titan-155663662403025709</Name>
+      <PositionAndOrientation>
+        <Position x="-1858173" y="2048696" z="3937297" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Titan-Titan</StorageName>
+      <Radius>12500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>21875</AtmosphereRadius>
+      <MinimumSurfaceRadius>12125</MinimumSurfaceRadius>
+      <MaximumHillRadius>12875</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>2.51488018</X>
+          <Y>19.4201069</Y>
+          <Z>100</Z>
+        </RayleighScattering>
+        <MieScattering>147.671082</MieScattering>
+        <MieColorScattering>
+          <X>121.198166</X>
+          <Y>132.931335</Y>
+          <Z>143.040726</Z>
+        </MieColorScattering>
+        <RayleighHeight>9.386989</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>45.1775055</MieHeight>
+        <MieG>0.9997323</MieG>
+        <Intensity>6.00218773</Intensity>
+        <FogIntensity>1</FogIntensity>
+        <SeaLevelModifier>0.912886143</SeaLevelModifier>
+        <AtmosphereTopModifier>0.9042163</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.4</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Titan</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-8262406504161832023</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Europa-Europa--8262406504161832023</Name>
+      <PositionAndOrientation>
+        <Position x="1306737" y="1367439" z="1245422" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Europa-Europa</StorageName>
+      <Radius>7500</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>13125</AtmosphereRadius>
+      <MinimumSurfaceRadius>7275</MinimumSurfaceRadius>
+      <MaximumHillRadius>7950</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>17.1</X>
+          <Y>24.3</Y>
+          <Z>47</Z>
+        </RayleighScattering>
+        <MieScattering>147.671082</MieScattering>
+        <MieColorScattering>
+          <X>121</X>
+          <Y>132</Y>
+          <Z>143</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>0</RayleighHeightSpace>
+        <RayleighTransitionModifier>0</RayleighTransitionModifier>
+        <MieHeight>41</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>4.1</Intensity>
+        <FogIntensity>1</FogIntensity>
+        <SeaLevelModifier>0.933</SeaLevelModifier>
+        <AtmosphereTopModifier>0.9</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.3</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Europa</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>-6978880956117502088</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Alien-Alien--6978880956117502088</Name>
+      <PositionAndOrientation>
+        <Position x="-1971074" y="1901490" z="4061145" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Alien-Alien</StorageName>
+      <Radius>75000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>131250</AtmosphereRadius>
+      <MinimumSurfaceRadius>74250</MinimumSurfaceRadius>
+      <MaximumHillRadius>84000</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>57</X>
+          <Y>17.9645233</Y>
+          <Z>100</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>26</X>
+          <Y>51</Y>
+          <Z>26</Z>
+        </MieColorScattering>
+        <RayleighHeight>21</RayleighHeight>
+        <RayleighHeightSpace>11.2</RayleighHeightSpace>
+        <RayleighTransitionModifier>0.4</RayleighTransitionModifier>
+        <MieHeight>200</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>6</Intensity>
+        <FogIntensity>1</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1.1</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1.5</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Alien</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>3724025229365555326</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Pertam-Pertam-3724025229365555326</Name>
+      <PositionAndOrientation>
+        <Position x="-4032969" y="-94076" z="-830078" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward">
+                <Sector>
+                  <SectorId>2533275109163011</SectorId>
+                  <SavedModules>
+                    <Module>
+                      <ModuleId Type="MyObjectBuilder_ProceduralEnvironmentModuleDefinition" Subtype="Static" />
+                      <Builder xsi:type="MyObjectBuilder_StaticEnvironmentModule">
+                        <DisabledItems>
+                          <int>113</int>
+                        </DisabledItems>
+                        <Boxes />
+                        <MinScanned>15</MinScanned>
+                      </Builder>
+                    </Module>
+                  </SavedModules>
+                </Sector>
+                <Sector>
+                  <SectorId>281477996609709</SectorId>
+                  <SavedModules>
+                    <Module>
+                      <ModuleId Type="MyObjectBuilder_ProceduralEnvironmentModuleDefinition" Subtype="Static" />
+                      <Builder xsi:type="MyObjectBuilder_StaticEnvironmentModule">
+                        <DisabledItems>
+                          <int>19</int>
+                        </DisabledItems>
+                        <Boxes />
+                        <MinScanned>15</MinScanned>
+                      </Builder>
+                    </Module>
+                  </SavedModules>
+                </Sector>
+                <Sector>
+                  <SectorId>2533275142717464</SectorId>
+                  <SavedModules>
+                    <Module>
+                      <ModuleId Type="MyObjectBuilder_ProceduralEnvironmentModuleDefinition" Subtype="Static" />
+                      <Builder xsi:type="MyObjectBuilder_StaticEnvironmentModule">
+                        <DisabledItems>
+                          <int>101</int>
+                        </DisabledItems>
+                        <Boxes />
+                        <MinScanned>15</MinScanned>
+                      </Builder>
+                    </Module>
+                  </SavedModules>
+                </Sector>
+              </Provider>
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up">
+                <Sector>
+                  <SectorId>1125901903331462</SectorId>
+                  <SavedModules>
+                    <Module>
+                      <ModuleId Type="MyObjectBuilder_ProceduralEnvironmentModuleDefinition" Subtype="Static" />
+                      <Builder xsi:type="MyObjectBuilder_StaticEnvironmentModule">
+                        <DisabledItems>
+                          <int>33</int>
+                        </DisabledItems>
+                        <Boxes />
+                        <MinScanned>1</MinScanned>
+                      </Builder>
+                    </Module>
+                  </SavedModules>
+                </Sector>
+              </Provider>
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Pertam-Pertam</StorageName>
+      <Radius>50000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>87500</AtmosphereRadius>
+      <MinimumSurfaceRadius>48750</MinimumSurfaceRadius>
+      <MaximumHillRadius>51250</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>11.7</X>
+          <Y>17.7</Y>
+          <Z>23.65</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>44</X>
+          <Y>62</Y>
+          <Z>150</Z>
+        </MieColorScattering>
+        <RayleighHeight>15</RayleighHeight>
+        <RayleighHeightSpace>8</RayleighHeightSpace>
+        <RayleighTransitionModifier>0.45</RayleighTransitionModifier>
+        <MieHeight>200</MieHeight>
+        <MieG>0.999832332</MieG>
+        <Intensity>60</Intensity>
+        <FogIntensity>1</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1.1</AtmosphereTopModifier>
+        <Scale>1</Scale>
+        <SunColor>
+          <X>0.99999994</X>
+          <Y>0.91</Y>
+          <Z>0.82</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>0.99999994</X>
+          <Y>0.8399999</Y>
+          <Z>0.68</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1.2</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Pertam</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>8114674427035913709</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Mars-Mars-8114674427035913709</Name>
+      <PositionAndOrientation>
+        <Position x="1383565" y="1255016" z="1256075" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Mars-Mars</StorageName>
+      <Radius>40000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>70000</AtmosphereRadius>
+      <MinimumSurfaceRadius>39600</MinimumSurfaceRadius>
+      <MaximumHillRadius>44800</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>2.51488018</X>
+          <Y>16.398098</Y>
+          <Z>100</Z>
+        </RayleighScattering>
+        <MieScattering>147.671082</MieScattering>
+        <MieColorScattering>
+          <X>31</X>
+          <Y>48</Y>
+          <Z>112</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>6</RayleighHeightSpace>
+        <RayleighTransitionModifier>0.415</RayleighTransitionModifier>
+        <MieHeight>200</MieHeight>
+        <MieG>0.9997323</MieG>
+        <Intensity>6</Intensity>
+        <FogIntensity>1</FogIntensity>
+        <SeaLevelModifier>0.982</SeaLevelModifier>
+        <AtmosphereTopModifier>1.1</AtmosphereTopModifier>
+        <Scale>0</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.6</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Mars</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>7624610174853720179</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Luna-Moon-7624610174853720179</Name>
+      <PositionAndOrientation>
+        <Position x="1084" y="121378" z="-134459" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Luna-Moon</StorageName>
+      <Radius>15000</Radius>
+      <HasAtmosphere>false</HasAtmosphere>
+      <AtmosphereRadius>26250</AtmosphereRadius>
+      <MinimumSurfaceRadius>14550</MinimumSurfaceRadius>
+      <MaximumHillRadius>15450</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>20</X>
+          <Y>7.5</Y>
+          <Z>10</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>50</X>
+          <Y>50</Y>
+          <Z>50</Z>
+        </MieColorScattering>
+        <RayleighHeight>10</RayleighHeight>
+        <RayleighHeightSpace>10</RayleighHeightSpace>
+        <RayleighTransitionModifier>1</RayleighTransitionModifier>
+        <MieHeight>50</MieHeight>
+        <MieG>0.9998</MieG>
+        <Intensity>1</Intensity>
+        <FogIntensity>0</FogIntensity>
+        <SeaLevelModifier>1</SeaLevelModifier>
+        <AtmosphereTopModifier>1</AtmosphereTopModifier>
+        <Scale>0.5</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>0.25</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Moon</PlanetGenerator>
+      <Seed>0</Seed>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
+      <SubtypeName />
+      <EntityId>2221026980415492030</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>Planet Agaris-12345d120000-2221026980415492030</Name>
+      <PositionAndOrientation>
+        <Position x="-17880.46538958975" y="-16456.143450890013" z="-18328.265560597254" />
+        <Forward x="-0" y="-0" z="-1" />
+        <Up x="0" y="1" z="0" />
+        <Orientation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>1</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <ComponentContainer>
+        <Components>
+          <ComponentData>
+            <TypeId>MyPlanetEnvironmentComponent</TypeId>
+            <Component xsi:type="MyObjectBuilder_PlanetEnvironmentComponent">
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Forward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Backward" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Left" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Right" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Up" />
+              <Provider xsi:type="MyObjectBuilder_ProceduralEnvironmentProvider" Face="Down" />
+              <SectorObstructions />
+            </Component>
+          </ComponentData>
+        </Components>
+      </ComponentContainer>
+      <ContentChanged>false</ContentChanged>
+      <BoulderPlanetId xsi:nil="true" />
+      <BoulderSectorId xsi:nil="true" />
+      <BoulderItemId xsi:nil="true" />
+      <CreatedByUser>false</CreatedByUser>
+      <StorageName>Planet Agaris-12345d120000</StorageName>
+      <Radius>60000</Radius>
+      <HasAtmosphere>true</HasAtmosphere>
+      <AtmosphereRadius>105000</AtmosphereRadius>
+      <MinimumSurfaceRadius>58200</MinimumSurfaceRadius>
+      <MaximumHillRadius>61800</MaximumHillRadius>
+      <AtmosphereWavelengths>
+        <X>0.65</X>
+        <Y>0.57</Y>
+        <Z>0.475</Z>
+      </AtmosphereWavelengths>
+      <GravityFalloff>7</GravityFalloff>
+      <MarkAreaEmpty>true</MarkAreaEmpty>
+      <AtmosphereSettings>
+        <RayleighScattering>
+          <X>31.431</X>
+          <Y>42.872</Y>
+          <Z>61.941</Z>
+        </RayleighScattering>
+        <MieScattering>50</MieScattering>
+        <MieColorScattering>
+          <X>14.938</X>
+          <Y>45.661</Y>
+          <Z>95.375</Z>
+        </MieColorScattering>
+        <RayleighHeight>12.098</RayleighHeight>
+        <RayleighHeightSpace>8.192</RayleighHeightSpace>
+        <RayleighTransitionModifier>0.4</RayleighTransitionModifier>
+        <MieHeight>30</MieHeight>
+        <MieG>0.995</MieG>
+        <Intensity>4.518</Intensity>
+        <FogIntensity>0.643</FogIntensity>
+        <SeaLevelModifier>0.98</SeaLevelModifier>
+        <AtmosphereTopModifier>1.1</AtmosphereTopModifier>
+        <Scale>1</Scale>
+        <SunColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunColor>
+        <SunSpecularColor>
+          <X>1</X>
+          <Y>1</Y>
+          <Z>1</Z>
+        </SunSpecularColor>
+      </AtmosphereSettings>
+      <SurfaceGravity>1</SurfaceGravity>
+      <SpawnsFlora>false</SpawnsFlora>
+      <ShowGPS>false</ShowGPS>
+      <SpherizeWithDistance>true</SpherizeWithDistance>
+      <PlanetGenerator>Planet Agaris</PlanetGenerator>
+      <Seed>12345</Seed>
+    </MyObjectBuilder_EntityBase>
+  </SectorObjects>
+</MyObjectBuilder_Sector>

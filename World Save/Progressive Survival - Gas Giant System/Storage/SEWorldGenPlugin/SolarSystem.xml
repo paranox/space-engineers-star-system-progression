@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_SystemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CenterObject>
+    <Type>EMPTY</Type>
+    <DisplayName>System center</DisplayName>
+    <Id>4cb7cfe4-3082-45e9-9fc4-5103def682bc</Id>
+    <CenterPosition x="0" y="0" z="0" />
+    <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+    <ChildObjects>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Poseidon</DisplayName>
+        <Id>d848e538-9961-48d7-9040-4837e24c165a</Id>
+        <CenterPosition x="-4000000" y="1000000" z="2500000" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Poseidon-Belt</DisplayName>
+            <Id>96897a46-ce68-4a55-b10d-4a0c9b807719</Id>
+            <CenterPosition x="-4000000" y="1000000" z="2500000" />
+            <ParentId>d848e538-9961-48d7-9040-4837e24c165a</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>1024</Max>
+            </AsteroidSize>
+          </MySystemObject>
+        </ChildObjects>
+        <SubtypeId>GasGiant</SubtypeId>
+        <Diameter>2400000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>6819388290684945784</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Planet Agaris</DisplayName>
+        <Id>721608de-179e-4ea4-9ef2-4e5f5ee5a12e</Id>
+        <CenterPosition x="47656.03461041025" y="49080.356549109987" z="47208.234439402746" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId />
+        <Diameter>123600</Diameter>
+        <Generated>true</Generated>
+        <EntityId>2221026980415492030</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Luna</DisplayName>
+        <Id>9cc4a4ad-c68e-4bf4-9dcc-00b4262dab71</Id>
+        <CenterPosition x="17468" y="137762" z="-118075" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId>Moon</SubtypeId>
+        <Diameter>30000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>7624610174853720179</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Mars</DisplayName>
+        <Id>3fdcf9f0-8bda-4450-8830-4fe75c35dd64</Id>
+        <CenterPosition x="1449101" y="1320552" z="1321611" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId>Mars</SubtypeId>
+        <Diameter>80000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>8114674427035913709</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Europa</DisplayName>
+        <Id>df8bbc99-8243-4691-9cf8-8c1f21dda2b5</Id>
+        <CenterPosition x="1314929" y="1375631" z="1253614" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId>Europa</SubtypeId>
+        <Diameter>15000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-8262406504161832023</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Alien</DisplayName>
+        <Id>ffc489c2-da7f-43e6-bdd2-ceb8cffd9fc9</Id>
+        <CenterPosition x="-1840002" y="2032562" z="4192217" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId>Alien</SubtypeId>
+        <Diameter>150000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-6978880956117502088</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Titan</DisplayName>
+        <Id>334a6702-14b2-4495-b7f9-aa57d97ebbe4</Id>
+        <CenterPosition x="-1841789" y="2065080" z="3953681" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects />
+        <SubtypeId>Titan</SubtypeId>
+        <Diameter>25000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>155663662403025709</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Pertam</DisplayName>
+        <Id>43258191-67d7-423f-bf19-91f7f37152e5</Id>
+        <CenterPosition x="-3967433" y="-28540" z="-764542" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Pertam-Belt</DisplayName>
+            <Id>8d293a41-b836-43c5-88d0-e65d88fb23c5</Id>
+            <CenterPosition x="-3967433" y="-28540" z="-764542" />
+            <ParentId>43258191-67d7-423f-bf19-91f7f37152e5</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>384</Max>
+            </AsteroidSize>
+          </MySystemObject>
+        </ChildObjects>
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>100000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>3724025229365555326</EntityId>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>Triton</DisplayName>
+        <Id>7aed6bbc-8a2a-4704-aa9e-0397298a7084</Id>
+        <CenterPosition x="-850014.5" y="2923151.5" z="-4121533.5" />
+        <ParentId>4cb7cfe4-3082-45e9-9fc4-5103def682bc</ParentId>
+        <ChildObjects>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Triton-Belt-A</DisplayName>
+            <Id>b855528d-7bba-4930-aa8a-009ac5ef09ea</Id>
+            <CenterPosition x="-850014.5" y="2923151.5" z="-4121533.5" />
+            <ParentId>7aed6bbc-8a2a-4704-aa9e-0397298a7084</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>512</Max>
+            </AsteroidSize>
+          </MySystemObject>
+          <MySystemObject xsi:type="MySystemAsteroids">
+            <Type>ASTEROIDS</Type>
+            <DisplayName>Triton-Belt-B</DisplayName>
+            <Id>db3ac473-8d80-4bd2-a6ca-a327d0def6bd</Id>
+            <CenterPosition x="-850014.5" y="2923151.5" z="-4121533.5" />
+            <ParentId>7aed6bbc-8a2a-4704-aa9e-0397298a7084</ParentId>
+            <ChildObjects />
+            <AsteroidTypeName>AsteroidRing</AsteroidTypeName>
+            <AsteroidSize>
+              <Min>32</Min>
+              <Max>512</Max>
+            </AsteroidSize>
+          </MySystemObject>
+        </ChildObjects>
+        <SubtypeId />
+        <Diameter>240000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>3580297522870005110</EntityId>
+      </MySystemObject>
+    </ChildObjects>
+  </CenterObject>
+</MyObjectBuilder_SystemData>

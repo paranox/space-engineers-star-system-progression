@@ -13,7 +13,7 @@ In O2/H2 Generator you will find, as not changed by this mod:
 
 In addition the pods might have tanks containing O2 or H2, and this mod doesn't change that.
 
-This addon makes Pertam starts very hard, as there's no ice to speak of. It will be necessary to collect unknown signals, or to raid NPCs and maybe even other players to get drinking water from ice.
+This addon makes Pertam starts very hard, as there's no ice to speak of. It will be necessary to collect unknown signals, or to raid NPCs and maybe even other players to get drinking water from ice. You'll need to drink your recycled urine a lot, naturally.
 
 It's on [url=https://github.com/paranox/space-engineers-star-system-progression]Github[/url]
 
