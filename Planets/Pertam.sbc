@@ -652,14 +652,14 @@
     </EnvironmentItems>
 
     <HasAtmosphere>true</HasAtmosphere>
-    <MaximumOxygen>0.8</MaximumOxygen>
+    <MaximumOxygen>0.6</MaximumOxygen>
 
     <!-- <DefaultSurfaceTemperature>ExtremeFreeze</DefaultSurfaceTemperature> -->
 
     <Atmosphere>
       <Breathable>true</Breathable>
-      <OxygenDensity>0.8</OxygenDensity>
-      <Density>1.2</Density>
+      <OxygenDensity>0.54</OxygenDensity>
+      <Density>0.6</Density>
       <LimitAltitude>2</LimitAltitude>
       <MaxWindSpeed>100</MaxWindSpeed>
     </Atmosphere>

@@ -7,7 +7,7 @@ This mod is used in [this world save (Steam Workshop)](https://steamcommunity.co
 Mod items
 * [Main mod Star System Progression V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2590306434)
   * [Addon: Water Mod + Planet Agaris](https://steamcommunity.com/sharedfiles/filedetails/?id=2590313274)
-  * [Addon: Daily Needs Survival Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204)
+  * [Addon: Daily Needs Survival Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204) (Really hard Pertam starts, really easy on Agaris)
 
 ## The idea of it
 All Planets and Moons are available for starting out from. You do find all ores ores on all planets but each have specialties and limitations.
@@ -41,7 +41,7 @@ A hard start with a very thin atmosphere, weak winds and no oxygen. You can find
 A normal start with a breathable atmosphere but very high gravity and very strong winds. Relatively rich in all basic construction ores and even has some moderate amounts of Uraninite. Getting off this planet is a challenge but once you do you'll be rather well equipped. There is no moon, so scouting asteroids are needed for Silver and Gold.
 
 ### Pertam Planet
-A normal start with a breathable, slightly denser atmosphere and strong winds, but no ice to speak of. Gravity is higher as well. The planet has only low amounts of basic construction ores, only little bit of Magnesium, but rather high amounts of all rare ores, especially Uraninite. There is no moon, but asteroids can provide easier access to Magnesium and constrution ores.
+A normal start with a breathable, noticeably thinner atmosphere but strong winds and higher gravity compared to EarthLike. There is no ice to speak of on this planet, so getting off the planet is challenging. The planet has only low amounts of basic construction ores, only little bit of Magnesium, but rather high amounts of all rare ores, especially Uraninite. There is no moon, but asteroids can provide easier access to Magnesium and construction ores.
 
 ## Planetary modifications
 I've changed gravity and atmosphere parameters on most planets.
@@ -55,7 +55,7 @@ Europa          | 0.3     | 0.1        | none     | 20
 Alien           | 1.5     | 1.2        | 0.1      | 120
 Titan           | 0.4     | 0.2        | none     | 20
 Triton          | 1.9     | 1.4        | 0.9      | 150
-Pertam          | 1.2     | 0.8        | 0.8      | 100
+Pertam          | 1.2     | 0.6        | 0.54     | 100
 Agaris (Water)  | 1.0     | 1.0        | 0.9      | 80
 
 ### Procedurally Generated Ores
@@ -102,3 +102,6 @@ Until I can be arsed to automate this with a script, here's a list of things use
 * `readme.txt` (from `/configs/Workshop/Star System Progression V2 - Daily Needs Survival Kit/readme.txt`)
 * `thumb.jpg` (from `/configs/Workshop/Star System Progression V2 - Daily Needs Survival Kit/thumb.jpg`)
 * `Data/Prefabs` (from `/Respawn Ships - Daily Needs/Prefabs`)
+
+### Progressive Survival - Gas Giant System
+* `[SaveFolder]/Progressive Survival - Gas Giant System` (from `/World Save/Progressive Survival - Gas Giant System`)
