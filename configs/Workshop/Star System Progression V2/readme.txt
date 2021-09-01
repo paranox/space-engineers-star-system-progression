@@ -2,6 +2,10 @@ I wanted to make a Star System type scenario where starting anywhere is possible
 
 This is version 2 of the setup, which is not compatible with the earlier one I made. Version 1 is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2071799682]here[/url]
 
+Addons for more features:
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590313274]Addon: Water Mod + Planet Agaris[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204]Addon: Daily Needs Survival Kit[/url]
+
 This mod is also on [url=https://github.com/paranox/space-engineers-star-system-progression]Github[/url]
 
 [h2]The idea of it[/h2]
