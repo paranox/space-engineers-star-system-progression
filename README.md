@@ -4,9 +4,10 @@ I wanted to make a Star System type scenario where starting anywhere is possible
 ## Steam Workshop links
 This mod is used in [this world save (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2590817100) and it defines the modified planets.
 
-[Main mod Star System Progression V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2590306434)
-[Addon: Water Mod + Planet Agaris](https://steamcommunity.com/sharedfiles/filedetails/?id=2590313274)
-[Addon: Daily Needs Survival Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204)
+Mod items
+* [Main mod Star System Progression V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2590306434)
+  * [Addon: Water Mod + Planet Agaris](https://steamcommunity.com/sharedfiles/filedetails/?id=2590313274)
+  * [Addon: Daily Needs Survival Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204)
 
 ## The idea of it
 All Planets and Moons are available for starting out from. You do find all ores ores on all planets but each have specialties and limitations.
