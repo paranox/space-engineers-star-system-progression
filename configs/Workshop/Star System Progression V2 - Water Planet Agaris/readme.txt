@@ -1,4 +1,4 @@
-Additional configs for Planet Agaris and Water Mod, basically just new oremaps for the planet.
+Additional configs to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590306434]Star System Progress V2[/url] for Planet Agaris and Water Mod, basically just new oremaps for the planet.
 
 It's on [url=https://github.com/paranox/space-engineers-star-system-progression]Github[/url]
 
@@ -65,5 +65,5 @@ In many cases the ores with low numbers are up to 300m deep in the ground and pl
 [/tr]
 [/table]
 
-[h2]The Scenario[/h2]
-This mod is used in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2072120819]this scenario[/url] and it defines the star system itself.
+[h2]The World[/h2]
+This mod is used in [url=https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2590817100]this world save[/url] and it defines the modified planets.

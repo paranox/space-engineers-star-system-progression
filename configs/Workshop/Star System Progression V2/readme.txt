@@ -1,6 +1,8 @@
 I wanted to make a Star System type scenario where starting anywhere is possible but you still need to go through objective steps in order to advance efficiently.
 
-It's on [url=https://github.com/paranox/space-engineers-star-system-progression]Github[/url]
+This is version 2 of the setup, which is not compatible with the earlier one I made. Version 1 is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2071799682]here[/url]
+
+This mod is also on [url=https://github.com/paranox/space-engineers-star-system-progression]Github[/url]
 
 [h2]The idea of it[/h2]
 All Planets and Moons are available for starting out from. You do find all ores ores on all planets but each have specialties and limitations.
@@ -203,5 +205,5 @@ In many cases the ores with low numbers are up to 300m deep in the ground and pl
 [/tr]
 [/table]
 
-[h2]The Scenario[/h2]
-This mod is used in [url=UPDATETHIS]this scenario[/url] and it defines the star system itself.
+[h2]The World[/h2]
+This mod is used in [url=https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2590817100]this world save[/url] and it defines the modified planets.

@@ -1,10 +1,14 @@
 # space-engineers-star-system-progression
 I wanted to make a Star System type scenario where starting anywhere is possible but you still need to go through objective steps in order to advance efficiently.
 
-[Workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=2071799682)
+## Steam Workshop links
+This mod is used in [this world save (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2590817100) and it defines the modified planets.
+
+[Main mod Star System Progression V2](https://steamcommunity.com/sharedfiles/filedetails/?id=2071799682)
+[Addon: Water Mod + Planet Agaris](https://steamcommunity.com/sharedfiles/filedetails/?id=2590313274)
+[Addon: Daily Needs Survival Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=2590791204)
 
 ## The idea of it
-
 All Planets and Moons are available for starting out from. You do find all ores ores on all planets but each have specialties and limitations.
 
 Basically you usually need to get to asteroids or moons for silver and only moons provide plentiful gold. Other planets will provide for whatever you don't reliably get where you started.
@@ -78,16 +82,22 @@ Until I can be arsed to automate this with a script, here's a list of things use
 * `readme.txt` (from `/configs/Workshop/Star System Progression V2/readme.txt`)
 * `thumb.jpg` (from `/configs/Workshop/Star System Progression V2/thumb.jpg`)
 * `Data/*.sbc` (from `/Planets/*.sbc`)
+* `Data/PlanetDataFiles` (from `/Ore Maps/PlanetDataFiles`)
+* `Data/Prefabs` (from `/Respawn Ships/Prefabs`)
+* `Data/RespawnShips.sbc` (from `/Respawn Ships/RespawnShips.sbc`)
 * `Data/VoxelMaterialChangesBoulders.sbc` (from `/Surface Boulders/VoxelMaterialChangesBoulders.sbc`)
 * `Data/VoxelMaterialChangesAsteroids.sbc` (from `/Scarcer Asteroid Ores/VoxelMaterialChangesAsteroids.sbc`)
-* `Data/PlanetDataFiles` (from `/Ore Maps/PlanetDataFiles`)
+* `Textures/*.*` (from `/Respawn Ships/Textures/*.*`)
 
 ### Star System Progression V2 - Water Planet Agaris
 * `metadata.mod` (from `/configs/Workshop/Star System Progression V2 - Water Planet Agaris/metadata.mod`)
 * `readme.txt` (from `/configs/Workshop/Star System Progression V2 - Water Planet Agaris/readme.txt`)
 * `thumb.jpg` (from `/configs/Workshop/Star System Progression V2 - Water Planet Agaris/thumb.jpg`)
 * `Data/Agaris.sbc` (from `/Planets - Water Mod/Agaris.sbc`)
-* `Data/PlanetDataFiles/Planet Agaris` (from `/Ore Maps - Water Mod/PlanetDataFiles/Planet Agaris`)
+* `Data/PlanetDataFiles/Agaris` (from `/Ore Maps - Water Mod/PlanetDataFiles/Planet Agaris`)
 
-## The Scenario
-This mod is used in [this scenario (git respository)](https://github.com/paranox/space-engineers-survival-progressively-less-likely) and it defines the star system itself.
+### Star System Progression V2 - Daily Needs Survival Kit
+* `metadata.mod` (from `/configs/Workshop/Star System Progression V2 - Daily Needs Survival Kit/metadata.mod`)
+* `readme.txt` (from `/configs/Workshop/Star System Progression V2 - Daily Needs Survival Kit/readme.txt`)
+* `thumb.jpg` (from `/configs/Workshop/Star System Progression V2 - Daily Needs Survival Kit/thumb.jpg`)
+* `Data/Prefabs` (from `/Respawn Ships - Daily Needs/Prefabs`)
