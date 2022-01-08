@@ -41,7 +41,7 @@ A hard start with a very thin atmosphere, weak winds and no oxygen. You can find
 A normal start with a breathable atmosphere but very high gravity and very strong winds. Relatively rich in all basic construction ores and even has some moderate amounts of Uraninite. Getting off this planet is a challenge but once you do you'll be rather well equipped. There is no moon, so scouting asteroids are needed for Silver and Gold.
 
 ### Pertam Planet
-A normal start with a breathable, noticeably thinner atmosphere but strong winds and higher gravity compared to EarthLike. There is no ice to speak of on this planet, so getting off the planet is challenging. The planet has only low amounts of basic construction ores, only little bit of Magnesium, but rather high amounts of all rare ores, especially Uraninite. There is no moon, but asteroids can provide easier access to Magnesium and construction ores.
+Slightly hard start with a breathable, noticeably thinner atmosphere but strong winds and higher gravity compared to EarthLike. There is no ice to speak of and Cobalt is really hard to find, so getting off the planet is challenging. Easiest would be to scavenge Cobalt from NPCs. The planet has only low amounts of basic construction ores, only little bit of Magnesium, but rather high amounts of all rare ores, especially Uraninite. There is no moon, but asteroids can provide easier access to Magnesium and construction ores.
 
 ## Planetary modifications
 I've changed gravity and atmosphere parameters on most planets.
